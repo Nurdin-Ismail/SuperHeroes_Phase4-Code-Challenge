@@ -256,4 +256,3 @@ JSON data, along with the appropriate HTTP status code:
   "errors": ["validation errors"]
 }
 ```
-# SuperHeroes_Phase4-Code-Challenge
